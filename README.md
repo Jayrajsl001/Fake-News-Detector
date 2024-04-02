@@ -10,15 +10,13 @@ cd Fake-News-Detector
 Machine-Learning main.py
 ```
 
-<p align="center">
-<img src="/images/preview.gif">
-</p>
-
 ## Screenshots
 <p align="center">
-<img width=1000 src="/images/screenshot.png">
-
+<img width=1000 src="/Web Images/Screenshot 2024-02-14 124640.png">
+<img width=1000 src="/Web Images/Screenshot 2024-02-14 124822.png">
+<img width=1000 src="/Web Images/Screenshot 2024-02-14 125335.png">
 </p>
+
 
 ## Controls
 1. User Enter the news.
